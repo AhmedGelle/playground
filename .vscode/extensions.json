@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    "karigari.chat",
+    "mgmcdermott.vscode-language-babel",
+    "codestream.codestream",
+    "github.copilot",
+    "eamodio.gitlens",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "oderwat.indent-rainbow",
+    "tabnine.tabnine-vscode",
+    "suming.react-proptypes-generate",
+    "codezombiech.gitignore",
+    "ms-azuretools.vscode-docker",
+    "coenraads.bracket-pair-colorizer",
+    "donjayamanne.githistory",
+    "xyz.local-history",
+    "ms-vsliveshare.vsliveshare-pack",
+    "orta.vscode-jest",
+    "lokalise.i18n-ally",
+    "editorconfig.editorconfig",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "sonarsource.sonarlint-vscode"
+  ]
+}
