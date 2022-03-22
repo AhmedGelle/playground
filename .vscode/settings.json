@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": false,
+  "js/ts.implicitProjectConfig.experimentalDecorators": true,
+  "i18n-ally.localesPaths": [
+    "public/locales",
+    "storybook-static/locales",
+    "cypress/integration/i18n"
+  ],
+  "i18n-ally.keystyle": "nested"
+}
